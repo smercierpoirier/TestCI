@@ -1,3 +1,3 @@
 # TestCI
 
-TestCI is about the testing of the continuous integration tool of GitHub.
+TestCI is about testing the integration of [Travis-CI](https://travis-ci.com) with [GitHub](https://github.com).
